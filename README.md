@@ -1,4 +1,4 @@
-# Twitter Sentimental Analyzer
+# Tweeter Sentimental Analyzer
 Using a TextBlob to analyze some random tweets including MacBook 
 Tweepy is the a library to use tweeter-API 
 ## Dependencies 
